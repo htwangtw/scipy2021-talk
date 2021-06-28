@@ -12,19 +12,29 @@ Current state of Open Source in Biology and Neuroscience
 
 ## Background
 
+--
+
 - PhD in cognitive neuroscience
 
 - Postdoc Fellow at Brighton and Sussex Medical School
 
+--
+
 - Research topic: fMRI, functional connectivity, and multivariate analysis
 
-- Brainhack patron
+--
 
 - Contribute to Nilearn, Nibabel, Pydra
+
+--
+
+- Brainhack patron
 
 ---
 
 .left-column[
+
+## Background
 
 ## User / Consumer of software
 
@@ -50,6 +60,8 @@ Current state of Open Source in Biology and Neuroscience
 ---
 
 .left-column[
+
+## Background
 
 ## User / Consumer of software
 
@@ -78,6 +90,8 @@ Current state of Open Source in Biology and Neuroscience
 
 .left-column[
 
+## Background
+
 ## User / Consumer of software
 
 ## First PR
@@ -99,6 +113,8 @@ I went to a summar school, met a dev, and got help for my first PR.
 ---
 
 .left-column[
+
+## Background
 
 ## User / Consumer of software
 
@@ -125,6 +141,8 @@ I went to a summar school, met a dev, and got help for my first PR.
 
 .left-column[
 
+## Background
+
 ## User / Consumer of software
 
 ## First PR
@@ -148,6 +166,8 @@ I went to a summar school, met a dev, and got help for my first PR.
 ---
 
 .left-column[
+
+## Background
 
 ## User / Consumer of software
 
@@ -174,6 +194,8 @@ I went to a summar school, met a dev, and got help for my first PR.
 
 .left-column[
 
+## Background
+
 ## User / Consumer of software
 
 ## First PR
@@ -187,6 +209,7 @@ I went to a summar school, met a dev, and got help for my first PR.
 .right-column[
 ### I approach devs as a user if I have a question.
 ]
+
 --
 
 .right-column[
@@ -215,6 +238,8 @@ I went to a summar school, met a dev, and got help for my first PR.
 ---
 
 .left-column[
+
+## Background
 
 ## User / Consumer of software
 
