@@ -1,73 +1,235 @@
-layout: true
+layout: false
 
-.footer[I am a footer. I would benefit from some styling.]
+class: center, middle, inverse
+
+# Becoming a contributor
+Current state of Open Source in Biology and Neuroscience
+### Hao-Ting Wang
+
+[wanghaoting.com/scipy2021-talk](https://wanghaoting.com/scipy2021-talk)
 
 ---
 
-class: center, middle
+## Background
 
-# Remark Starter Slides
+- PhD in cognitive neuroscience
+
+- Postdoc Fellow at Brighton and Sussex Medical School
+
+- Research topic: fMRI, functional connectivity, and multivariate analysis
+
+- Brainhack patron
+
+- Contribute to Nilearn, Nibabel, Pydra
 
 ---
 
-# What's Inside?
+.left-column[
 
-- Edit your slides in Markdown (complete with highlighting/preview)
-- Presentation mode with speaker notes
-- Hot reload on save
-- Export to PDF
+## User / Consumer of software
+
+]
 
 --
 
-> _Requires an internet connection to present! If you need offline support pull remarkjs & any fonts down._
+.right-column[
+
+### "Open science"
+
+- Sharing code for research paper
+- Preprint research paper
+- Share summary data of neuroimaging studies
+
+### Chanllenges in my research
+
+- Multivariate methods requires decent sample-to-feature ratio
+- Need better behavioural/brain measures to improve signal to noise ratio
+
+]
 
 ---
 
-# Getting Started
+.left-column[
 
-```bash
-git clone https://github.com/aedificatorum/remark-slide-starter.git new-slides
-cd new-slides
-git remote remove origin
-npm install
-npm run present
-```
+## User / Consumer of software
 
----
+## First PR
 
-# Modifying Content
-
-- Slides live in `slides.md`
-- Customise fonts in `assets/styles.css`
-
----
-
-# Presenting
-
-- Use the forward & back arrows to navigate
-- Press `c` to open a second window (great for putting on a second monitor)
-- Press `p` to open presenter mode, which shows current slide, next slides, and notes
-
----
-
-# Exporting Slides
-
-- While running the `present` task, run `npm run export`
-
----
-
-# More Information
-
-- Slideshow built with `remark` - https://remarkjs.com
-- Served up with `live-server` - https://github.com/tapio/live-server
-- PDF exported by `decktape` - https://github.com/astefanutti/decktape
-
----
-
-# Suggestions?
-
-- https://github.com/aedificatorum/remark-slide-starter
+]
 
 --
 
-.center[.contain-image[![Continue](https://http.cat/100)]]
+
+.right-column[
+
+### Encountering things I want to improve
+
+- Simplify data reading of a specific file format for surface image.
+
+- Some cutting edge methods used data mapped onto cortical surface.
+
+- Most tools are developed for volumetric data.
+
+- The existing neuroimaging file library didn't support an easy method.
+
+]
+
+---
+
+.left-column[
+
+## User / Consumer of software
+
+## First PR
+
+]
+
+.right-column[
+
+### Encountering things I want to improve
+
+### Met kind dev that is willing to help
+
+I went to a summar school, met a dev, and got help for my first PR.
+
+![image](assets/pr.png)
+
+]
+
+---
+
+.left-column[
+
+## User / Consumer of software
+
+## First PR
+
+]
+
+.right-column[
+
+### Encountering things I want to improve
+
+### Met kind dev that is willing to help
+
+### What did I learn?
+
+- People are nice.
+- There's a lot of bots/metrics to help with code quality.
+- Style guilde.
+- The real way of using git.
+
+]
+
+---
+
+.left-column[
+
+## User / Consumer of software
+
+## First PR
+
+]
+
+.right-column[
+
+### Encountering things I want to improve
+
+### Met kind dev that is willing to help
+
+### What did I learn?
+
+### What did I do next?
+
+- I spent one year sending PR to my own project and learn about software writing practice.
+
+]
+
+---
+
+.left-column[
+
+## User / Consumer of software
+
+## First PR
+
+]
+
+.right-column[
+
+### Encountering things I want to improve
+
+### Met kind dev that is willing to help
+
+### What did I learn?
+
+### What did I do next?
+
+- I spent one year sending PR to my own project and learn about software writing practice.
+
+- Practice
+]
+
+---
+
+.left-column[
+
+## User / Consumer of software
+
+## First PR
+
+## Where am I now?
+
+]
+
+--
+
+.right-column[
+### I approach devs as a user if I have a question.
+]
+--
+
+.right-column[
+- Although most of the problems are between the table and the chair, people are still really helpful.
+- Join forums and code sprint days to meet people.
+]
+
+--
+
+.right-column[
+### I intentionally includes open source work as part of my job.
+]
+
+--
+
+.right-column[
+### I contribute to more projects!
+]
+
+--
+
+.right-column[
+### I have like-minded friends now!
+]
+
+---
+
+.left-column[
+
+## User / Consumer of software
+
+## First PR
+
+## Where am I now?
+
+## What's next?
+
+]
+
+--
+
+.right-column[
+- Survive as an academic.
+]
+--
+.right-column[- Convince lonely PhD students to take part in open source work to make friends.]

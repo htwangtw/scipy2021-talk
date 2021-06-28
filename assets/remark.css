@@ -119,5 +119,5 @@ blockquote {
 }
 /* image */
 img[alt=image] {
-    height: 550px;
+    width: 600px;
 }
