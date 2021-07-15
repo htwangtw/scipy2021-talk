@@ -247,7 +247,7 @@ I went to a summar school, met a dev, and got help for my first PR.
 
 ## Where am I now?
 
-## What's next?
+## What are the challenges next?
 
 ]
 
@@ -257,4 +257,4 @@ I went to a summar school, met a dev, and got help for my first PR.
 - Survive as an academic.
 ]
 --
-.right-column[- Convince lonely PhD students to take part in open source work to make friends.]
+.right-column[- How to help others to take part in open source work.]
